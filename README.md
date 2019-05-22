@@ -16,8 +16,7 @@ Mind the quote (`"`)
 
 ### Build Tool
 
-Gradle, bundled with IntelliJ IDEA community edition.
-Java Version
+[Gradle](https://gradle.org/), bundled with [IntelliJ IDEA](https://www.jetbrains.com/idea/) community edition.
 
 ### Java Version
 

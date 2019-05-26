@@ -4,13 +4,14 @@
 
 ### JAR
 
-Run `RUN-APPLICATION.cmd`.  
+Run `RUN-APPLICATION-(JAR).cmd`.  
 If doesn't work, make sure JDK version is 8 / 1.8.  
-JAR is located in `./build/jfx/app/project-jfx.jar`
+File is located in `./build/jfx/app/project-jfx.jar`
 
 ### Native
 
-`exe` is located in `./build/jfx/native/QRCode GUI-1.0-SNAPSHOT/QRCode GUI-1.0-SNAPSHOT.exe`
+Run `RUN-APPLICATION-(NATIVE).cmd`
+File is located in `./build/jfx/native/QRCode GUI-1.0-SNAPSHOT/QRCode GUI-1.0-SNAPSHOT.exe`
 
 ## Specification
 

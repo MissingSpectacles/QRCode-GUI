@@ -1,3 +1,6 @@
+[![](https://img.shields.io/badge/status-Finished-brightgreen)]()
+[![](https://img.shields.io/github/last-commit/brandon-julio-t/QRCode-GUI)]()
+
 # QRCode GUI
 
 ## How to Run
@@ -14,10 +17,6 @@ Run `RUN-APPLICATION-(NATIVE).cmd`
 File is located in `./build/jfx/native/QRCode GUI-1.0-SNAPSHOT/QRCode GUI-1.0-SNAPSHOT.exe`
 
 ## Specification
-
-### Gradle Version
-
-Bundled with IntelliJ IDEA 2019.1.2
 
 ### Java Version
 
